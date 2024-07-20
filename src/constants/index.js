@@ -5,23 +5,23 @@ import project4 from "../assets/project4.png";
 import project5 from "../assets/project5.png";
 import project6 from "../assets/project6.png";
 
-
 export const PROJECTS = [
   {
     title: "TinDog Website",
-    image:  project1,
+    image: project1,
     link: "",
 
     description:
       "A likely clone of tinder but for dogs . My first good project which made me have a great understanding of basic html and css. Key things i learned was alingning object , use of different sizes and basic website layout .",
-    technologies: ["HTML", "CSS" ,"Bootstrap"],
+    technologies: ["HTML", "CSS", "Bootstrap"],
   },
   {
     title: "Drum Kit App",
     image: project2,
     link: "",
 
-    description: "This project was a key to get into the next level of development . It helped me get whole new concept of using logic for different work at our website. How to import images and files and use logic in them .",
+    description:
+      "This project was a key to get into the next level of development . It helped me get whole new concept of using logic for different work at our website. How to import images and files and use logic in them .",
     technologies: ["HTML", "CSS", "JavaScript"],
   },
   {
@@ -39,7 +39,7 @@ export const PROJECTS = [
     link: "",
     description:
       "A personal portfolio showcasing my skills , tech stack , projects and contact information .",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+    technologies: ["HTML", "CSS", "React.js", "Tailwind CSS", "Framer Motion"],
   },
   {
     title: "Interior Design",
@@ -50,12 +50,10 @@ export const PROJECTS = [
     technologies: ["Figma"],
   },
   {
-    title: 
-   "Restaurant Website Design",
+    title: "Restaurant Website Design",
     image: project5,
     link: "https://www.figma.com/design/SbMwZ2yNN25g4bGr14D1tY/Restaurant-Web-design?node-id=0-1&t=RELTRoZ1Nys2VsJG-0",
-    description: 
-      "Another Design to showcase my Designing skills.",
+    description: "Another Design to showcase my Designing skills.",
     technologies: ["Figma"],
   },
 ];
