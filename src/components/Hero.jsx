@@ -33,7 +33,7 @@ const Hero = () => {
             <motion.p variants={container(0.8)}
             initial="hidden"
             animate="visible" className="my-2 max-w-xl tracking-tighter font-light">
-              I am a passionate FrontEnd Developer and UI UX Designer . I am
+              I am a passionate MERN Stack Developer and UI UX Designer . I am
               currently a Third Year Undergrad at IIIT Nagpur pursuing B.Tech at
               CSE with specialization in Human Computer Interaction and Gaming
               Technology .

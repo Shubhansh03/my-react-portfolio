@@ -27,7 +27,7 @@ const About = () => {
               {" "}
               I am currently a 3rd Year Undergraduate Student at Indian
               Institute Of Information Technology Nagpur . Having keen interest
-              in UI design and frontend Development I look forward to enhance my
+              in Web Development and UI Design I look forward to enhance my
               skills and follow my passion throughout .
             </motion.p>
           </div>
