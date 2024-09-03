@@ -1,5 +1,5 @@
 import React from "react";
-import aboutImg from "../assets/myprofile.jpg";
+import aboutImg from "../assets/mypic2.jpg";
 import { motion } from "framer-motion";
 
 const About = () => {
@@ -16,7 +16,7 @@ const About = () => {
           <div className="flex items-center justify-center">
             <motion.img whileInView={{opacity:1 ,x:0}} 
       initial={{opacity:0 ,x:-200}}
-      transition={{duration:1.5}} className="size-96 rounded-md" src={aboutImg} alt="about" />
+      transition={{duration:1.5}} className="size-96 h-64 rounded-md" src={aboutImg} alt="about" />
           </div>
         </div>
         <div className="w-full lg:w-1/2">
