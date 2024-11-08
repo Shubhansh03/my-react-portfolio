@@ -49,13 +49,13 @@ export const PROJECTS = [
     link: "",
     description:
       "Cryptocurrency tracker app, built with React.js, is a streamlined tool that lets users search for and view up-to-date cryptocurrency information using an API . The app leverages API integration to fetch real-time data, ensuring users always see the latest information..",
-    technologies: ["Figma"],
+    technologies: ["ReactJs"],
   },
   {
     title: "Pokedex",
     image: pokedex,
     link: "",
     description: "A Pokédex built in React is an interactive app that lets users search and view detailed information about Pokémon. It uses an API to fetch real-time data, displaying each Pokémon’s stats, type, and abilities in an easy-to-navigate interface.",
-    technologies: ["Figma"],
+    technologies: ["ReactJs"],
   },
 ];
