@@ -4,6 +4,8 @@ import project3 from "../assets/project3.png";
 import project4 from "../assets/project4.png";
 import project5 from "../assets/project5.png";
 import project6 from "../assets/project6.png";
+import crypto from "../assets/crypto.png";
+import pokedex from "../assets/pokedex.png";
 
 export const PROJECTS = [
   {
@@ -42,18 +44,18 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "React.js", "Tailwind CSS", "Framer Motion"],
   },
   {
-    title: "Interior Design",
-    image: project6,
-    link: "https://www.figma.com/design/julQ3rKO1afDJmeXLDNgI6/ineterior-design?node-id=0-1&t=sOB9vK37JdSO9NA0-0",
+    title: "CryptoCurrency Tracker",
+    image: crypto,
+    link: "",
     description:
-      "My first big Design project . Helped me make components and then merging them in layouts . Learned Prototyping , Basic Animations and Component building.",
+      "Cryptocurrency tracker app, built with React.js, is a streamlined tool that lets users search for and view up-to-date cryptocurrency information using an API . The app leverages API integration to fetch real-time data, ensuring users always see the latest information..",
     technologies: ["Figma"],
   },
   {
-    title: "Restaurant Website Design",
-    image: project5,
-    link: "https://www.figma.com/design/SbMwZ2yNN25g4bGr14D1tY/Restaurant-Web-design?node-id=0-1&t=RELTRoZ1Nys2VsJG-0",
-    description: "Another Design to showcase my Designing skills.",
+    title: "Pokedex",
+    image: pokedex,
+    link: "",
+    description: "A Pokédex built in React is an interactive app that lets users search and view detailed information about Pokémon. It uses an API to fetch real-time data, displaying each Pokémon’s stats, type, and abilities in an easy-to-navigate interface.",
     technologies: ["Figma"],
   },
 ];
